@@ -5,5 +5,6 @@ Yaha Hum JavaScript Starting se padte hue advanced topics jese OOPs ko bhi cover
 ## An Introduction
 
 1.1 An introduction to javascript
+1.2 Manuals and Specification
 
-Adding Soon...
+1 topic everyday...
