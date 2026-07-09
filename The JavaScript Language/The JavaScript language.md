@@ -1,10 +1,13 @@
 # The JavaScript Language
 
-Yaha Hum JavaScript Starting se padte hue advanced topics jese OOPs ko bhi cover krege. Javascript Language ke jitne bhi topics hai vo niche likhe hue hai
+Yahan hum JavaScript starting se padhte hue advanced topics jaise OOPs ko bhi cover karenge. JavaScript Language ke jitne bhi topics hain vo niche likhe hue hain.
+
+---
 
 ## An Introduction
 
-1.1 An introduction to javascript
-1.2 Manuals and Specification
+1. An Introduction to JavaScript
+2. Manuals and Specifications
+3. Code Editors
 
 1 topic everyday...
